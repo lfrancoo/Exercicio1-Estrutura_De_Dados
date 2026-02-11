@@ -1,7 +1,7 @@
-package controller;
+package view;
 
 
-import view.Somatorio;
+import controller.Somatorio;
 
 public class Main {
 
